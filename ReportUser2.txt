@@ -1,0 +1,3 @@
+Purchase history for UserID: 2 name: Rockie  surname: Balboa
+
+productId=2, productName='red nike shirts', productDescription='red nike shirts for kids size 120-150', productPrice=31.0, stock=0, category=T_SHIRTS

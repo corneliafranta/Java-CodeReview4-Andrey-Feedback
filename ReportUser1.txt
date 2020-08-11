@@ -1,0 +1,10 @@
+Purchase history for UserID: 1 name: Jack  surname: Longarm
+
+productId=1, productName='blue t-shirts', productDescription='blue t-shirts with V shaped neck and long sleeves', productPrice=33.0, stock=6, category=T_SHIRTS
+productId=2, productName='red nike shirts', productDescription='red nike shirts for kids size 120-150', productPrice=31.0, stock=0, category=T_SHIRTS
+productId=3, productName='big circle earrings', productDescription='silver earrings for special occasion', productPrice=49.0, stock=4, category=ACCESSOIRES
+productId=1, productName='blue t-shirts', productDescription='blue t-shirts with V shaped neck and long sleeves', productPrice=33.0, stock=6, category=T_SHIRTS
+productId=2, productName='red nike shirts', productDescription='red nike shirts for kids size 120-150', productPrice=31.0, stock=0, category=T_SHIRTS
+productId=3, productName='big circle earrings', productDescription='silver earrings for special occasion', productPrice=49.0, stock=4, category=ACCESSOIRES
+productId=3, productName='big circle earrings', productDescription='silver earrings for special occasion', productPrice=49.0, stock=4, category=ACCESSOIRES
+productId=2, productName='red nike shirts', productDescription='red nike shirts for kids size 120-150', productPrice=31.0, stock=0, category=T_SHIRTS
